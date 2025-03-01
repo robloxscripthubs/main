@@ -51,6 +51,8 @@ local RunService = game:GetService("RunService")
 local buttonPosx = 268
 local buttonPosy = 505
 
+wait(10)
+
 local function clickButton()
 
     VirtualInputManager:SendMouseButtonEvent(buttonPosx, buttonPosy, 0, true, game, 0)
