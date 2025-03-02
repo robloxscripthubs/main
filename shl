@@ -48,8 +48,8 @@ end)
 local VirtualInputManager = game:GetService("VirtualInputManager")
 local RunService = game:GetService("RunService")
 
-local buttonPosx = 268
-local buttonPosy = 505
+local buttonPosx = 700
+local buttonPosy = 356
 
 wait(10)
 
